@@ -13,7 +13,7 @@
   <a href="https://github.com/henderson-abreu/">
   <img height="130em" width="400em" src="https://github-readme-stats.vercel.app/api?username=henderson-abreu&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true&hide=stars"/>
   <!-- <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henderson-abreu&theme=dark&hide_title=true&exclude_repo=github-readme-stats,henderson-abreu.github.io"> -->
-  <img height="130em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henderson-abreu&layout=compact&langs_count=10&theme=dark&hide_title=true"/>
+  <img height="130em" width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henderson-abreu&layout=compact&langs_count=10&theme=dark&hide_title=true"/>
 </div>
 
 ### Habilidades
