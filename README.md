@@ -15,9 +15,6 @@
 </div>
 
 ## Meus projetos
-### Os projetos listados estão em fase de aprimoramento, a cada estudo novo, os projetos são implementados.<br><br>
-### Alguns sites são CLONES de sites oficiais, criados para fins de estudos e nada mais. Se por acaso seu navegador julgar como SITE FRAUDULENTO, ignore e prossiga. 
-### Tentando resolver a questão
 
 💻 - [Projeto - Landing page - AWAX](https://henderson-awax.netlify.app)<br><br>
 💻 - [Projeto - MediCenter](https://henderson-medical.netlify.app)<br><br>
